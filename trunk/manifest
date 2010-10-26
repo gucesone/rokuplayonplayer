@@ -1,0 +1,9 @@
+title=PlayOn
+subtitle=Your Internet Video To Television Solution! 
+mm_icon_focus_hd=pkg:/images/PlayOn_focus_hd.png
+mm_icon_side_hd=pkg:/images/PlayOn_side_hd.png
+mm_icon_focus_sd=pkg:/images/PlayOn_focus_sd.png
+mm_icon_side_sd=pkg:/images/PlayOn_side_sd.png
+major_version=1
+minor_version=0
+build_version=00031
