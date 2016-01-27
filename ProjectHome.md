@@ -1,0 +1,1 @@
+An open-source project that implements a sample Roku application for PlayOn.  PlayOn is a software program that runs on your Windows PC and works with a variety of devices to deliver content from the internet to your TV.
